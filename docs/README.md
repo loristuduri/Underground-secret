@@ -1,12 +1,13 @@
-# Documentation Underground Secret
+# Guide Underground Secret
 
-Ce répertoire est destiné à la documentation du projet et à une éventuelle synchronisation GitBook.
+Le carnet documentaire du projet *Underground Secret* : enquêtes, chronologies, sources, médias et scripts de narration.
 
-## Sections prévues
-- Charte éditoriale et identité visuelle
-- Sources et références archéologiques
-- Procédure de production
-- Publication multicanal
-- Suivi des épisodes
+## Case 01 — Sacsayhuamán
 
-La connexion GitBook n'est pas encore configurée.
+Commencer par [le dossier sur les murs géants, la culture Killke et les chinkanas](01-sacsayhuaman.md).
+
+Le dossier sépare les observations archéologiques des hypothèses. Les visuels générés par IA sont toujours signalés comme des reconstitutions. L’index GitBook est dans [SUMMARY.md](SUMMARY.md).
+
+## Synchronisation
+
+Le contenu source est prêt dans ce dépôt pour une synchronisation GitBook. Aucun espace GitBook n’est encore connecté.
