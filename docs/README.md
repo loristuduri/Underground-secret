@@ -6,7 +6,11 @@ Le carnet documentaire du projet *Underground Secret* : enquêtes, chronologies,
 
 Commencer par [le dossier sur les murs géants, la culture Killke et les chinkanas](01-sacsayhuaman.md).
 
-Le dossier sépare les observations archéologiques des hypothèses. Les visuels générés par IA sont toujours signalés comme des reconstitutions. L’index GitBook est dans [SUMMARY.md](SUMMARY.md).
+## Case 02 — Gizeh
+
+Retrouver [l’enquête sur les chambres connues, le Big Void et le corridor nord](02-gizeh.md).
+
+Les dossiers séparent observations archéologiques, résultats de recherche et évocations spéculatives. Les visuels générés par IA sont signalés comme des reconstitutions.
 
 ## Synchronisation
 
